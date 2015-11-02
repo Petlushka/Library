@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="add_category">Добавить категорию</string>
+    <string name="add_autor">Добавить автора</string>
+    <string name="add_book">Добавить книгу</string>
+    <string name="view_books">Просмотр книг</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">Добавить</string>
+    <string name="back">Назад</string>
+    <string name="title_activity_add_category">AddCategory</string>
+    <string name="title_activity_add_autor">AddAutor</string>
+    <string name="title_activity_add_book">AddBook</string>
+    <string name="title_activity_view_books">ViewBooks</string>
+</resources>
